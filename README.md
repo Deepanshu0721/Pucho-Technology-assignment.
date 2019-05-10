@@ -4,7 +4,7 @@
 
 __Data visualization__ refers to the techniques used to communicate data or information by encoding it as visual objects contained in graphics. The goal is to communicate information clearly and efficiently to users. It is one of the steps in data analysis or data science.
 
-![image.png](https://sdtimes.com/wp-content/uploads/2018/12/charts-hero-490x248.png)<br><br>
+![image.png](https://media.springernature.com/full/nature-static/assets/v1/image-assets/520292a-i1.jpg)<br><br>
 
 Excellence in statistical graphics consists of complex ideas communicated with clarity, precision and efficiency. Graphical displays should:
 * show the data
