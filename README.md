@@ -4,7 +4,7 @@
 
 __Data visualization__ refers to the techniques used to communicate data or information by encoding it as visual objects contained in graphics. The goal is to communicate information clearly and efficiently to users. It is one of the steps in data analysis or data science.
 
-![image.png](https://media.springernature.com/full/nature-static/assets/v1/image-assets/520292a-i1.jpg)<br><br>
+![image.png](https://cdn-images-1.medium.com/max/2600/1*EwU1RnookEMFSfaCX-CQdA.png)<br><br>
 
 Excellence in statistical graphics consists of complex ideas communicated with clarity, precision and efficiency. Graphical displays should:
 * show the data
@@ -19,4 +19,5 @@ Excellence in statistical graphics consists of complex ideas communicated with c
 
 __A human can distinguish differences in line length, shape, orientation, and color (hue) readily without significant processing effort; these are referred to as "pre-attentive attributes"__. For example, it may require significant time and effort ("attentive processing") to identify the number of times the digit "5" appears in a series of numbers; but if that digit is different in size, orientation, or color, instances of the digit can be noted quickly through pre-attentive processing.
 
-![image.png](https://cdn-images-1.medium.com/max/2600/1*EwU1RnookEMFSfaCX-CQdA.png)<br><br>
+
+![image.png](https://media.springernature.com/full/nature-static/assets/v1/image-assets/520292a-i1.jpg)<br><br>
