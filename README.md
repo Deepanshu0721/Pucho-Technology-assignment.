@@ -1,6 +1,6 @@
 # Data-Visiualization
 
-![image.png](https://static1.squarespace.com/static/572d25ecd210b899879359a5/t/59ee8d53d0e628cc57cf9014/1508805982199/Data+Visualization)<br><br>
+![image.png](https://www.columnfivemedia.com/wp-content/uploads/2018/03/How-to-use-data-visualization-report-design.png)<br><br>
 
 __Data visualization__ refers to the techniques used to communicate data or information by encoding it as visual objects contained in graphics. The goal is to communicate information clearly and efficiently to users. It is one of the steps in data analysis or data science.
 
