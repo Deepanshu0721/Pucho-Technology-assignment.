@@ -1,8 +1,8 @@
-# Data-Visiualization
+# Data Visualization 
 
 ![image.png](https://www.columnfivemedia.com/wp-content/uploads/2018/03/How-to-use-data-visualization-report-design.png)<br><br>
 
-__Data visualization__ refers to the techniques used to communicate data or information by encoding it as visual objects contained in graphics. The goal is to communicate information clearly and efficiently to users. It is one of the steps in data analysis or data science.
+__Data Visualization__ refers to the techniques used to communicate data or information by encoding it as visual objects contained in graphics. The goal is to communicate information clearly and efficiently to users. It is one of the steps in data analysis or data science.
 
 ![image.png](https://cdn-images-1.medium.com/max/2600/1*EwU1RnookEMFSfaCX-CQdA.png)<br><br>
 
