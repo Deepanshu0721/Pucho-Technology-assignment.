@@ -1,6 +1,6 @@
 # Data-Visiualization
 
-![image.png](https://measuringsel.casel.org/wp-content/uploads/2018/05/4cfe7c9e3f4d1f454f5bd62fe41615c7.jpg)<br><br>
+![image.png](https://static1.squarespace.com/static/572d25ecd210b899879359a5/t/59ee8d53d0e628cc57cf9014/1508805982199/Data+Visualization)<br><br>
 
 __Data visualization__ refers to the techniques used to communicate data or information by encoding it as visual objects contained in graphics. The goal is to communicate information clearly and efficiently to users. It is one of the steps in data analysis or data science.
 
